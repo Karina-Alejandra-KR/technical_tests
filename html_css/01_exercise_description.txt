@@ -1,0 +1,10 @@
+1. Create a basic HTML structure:
+
+Build a page with:
+
+-A <header> header with a title.
+-A navigation menu <nav> with three links (Home, Services, Contact).
+-A main content <main> with an article and an additional section.
+-A footer <footer> with contact information.
+
+Include appropriate semantic tags.
